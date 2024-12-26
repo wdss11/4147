@@ -1,0 +1,5 @@
+Pistol_RevivalFlaregun_Wrapper|信号枪
+Pistol_Flaregun_|信号枪2
+Ammo_Flare|信号枪子弹
+BP_Other_Mortar_Bullet_C|小心迫击炮
+PeopleSkill|金色插件
